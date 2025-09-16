@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hello,+I'm+Muhammad+Ahmad!;Full-Stack+Developer;Flutter+%7C+React+%7C+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hello,+I'm+Muhammad+Ahmad+Akhtar!;Flutter+Developer;Full-Stack+with+React+%26+Node.js" alt="Typing SVG" />
 </p>
 
 ---
 
-<h1 align="center">👨‍💻 Muhammad Ahmad</h1>
+<h1 align="center">👨‍💻 Muhammad Ahmad Akhtar</h1>
 <p align="center">
-  <em>Building seamless, user-friendly apps with Flutter, React, and Node.js</em>
+  <em>Creating secure, fast, and user-friendly mobile apps with clean code</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/muhammadahmadak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/muhammadahmadak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/muhammad_ahmadak"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://facebook.com/mohammadahmad.akhtar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://tiktok.com/@muhammadahmadak"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a>
@@ -19,18 +19,29 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate **Full-Stack Developer** specializing in creating intuitive and high-performance applications. My expertise spans **Flutter**, **React.js**, and **Node.js**, with a focus on delivering clean, scalable, and user-centric solutions. From **chat applications** to **e-commerce platforms** and **map-based services**, I love bringing ideas to life with robust APIs, **Firebase**, and **Google Maps** integration.
+I'm a dedicated **Flutter Developer** with hands-on experience in building mobile applications that are secure, fast, and user-friendly. I leverage clean, well-structured code along with **Firebase** and **REST APIs** to implement features like authentication, push notifications, and real-time updates. Proficient in state management, I create smooth and scalable apps while following best practices for maintainable code and optimal performance.
+
+I stay updated with the latest Flutter tools and trends to enhance my skills. I thrive in collaborative teams, sharing ideas, learning from others, and solving problems with attention to detail. My goal is to deliver reliable apps that are simple to use and easy to maintain.
+
+From real estate and vehicle rentals to communication platforms and e-commerce, I've worked on diverse projects, including full-stack solutions with **React.js** for admin panels and **Node.js** for backends.
 
 🌟 **What I Bring to the Table:**
-- **Collaborative Spirit**: I thrive in team environments and enjoy learning from others.
-- **Continuous Learning**: Always exploring the latest tools and technologies to stay ahead.
-- **Quality Focus**: Committed to delivering polished, reliable, and efficient code.
+- **Collaborative Spirit**: Excel in team environments, sharing knowledge and ideas.
+- **Continuous Learning**: Always exploring new technologies to stay ahead.
+- **Quality Focus**: Committed to polished, efficient, and scalable code.
+- **Problem-Solving**: Detail-oriented approach to effective solutions.
+
+---
+
+## 🎓 Education
+- **BS Computer Science** (Graduated November 2024)  
+  Qurtuba University, Dera Ismail Khan, Pakistan
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,express,firebase,mongodb,mysql,html,css,js,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,firebase,ts,html,css,js,git,github" alt="Tech Stack" />
 </p>
 
 ---
@@ -42,13 +53,32 @@ I'm a passionate **Full-Stack Developer** specializing in creating intuitive and
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmadAk&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="margin: 10px;" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAhmadAk&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 💼 Experience Highlights
+- **Flutter Developer** at SKATECH Solution (April 2025 - August 2025, Islamabad, Pakistan)  
+  Led development of Tiffin Service app, admin panel in React.js, dictionary app, and Smart Farm app with IoT integration via Firebase.
+
+- **Mobile App Developer** at ROGPAD TECHNOLOGIES PVT (November 2023 - December 2024, Delhi, India)  
+  Developed communication and financial management apps with clean designs, real-time Firebase data, and cross-device performance.
+
+- **Mobile App Developer** at CodeMiners (February 2023 - January 2024, Lahore, Pakistan)  
+  Built apps for real estate, vehicle rentals, and messaging with advanced search, maps, payments, and API integrations.
+
 ---
 
 ## 🏆 Featured Projects
 <p align="center">
-  <a href="https://github.com/MuhammadAhmadAk/your-chat-app-repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadAk&repo=your-chat-app-repo&theme=nightowl&hide_border=true" alt="Chat App" /></a>
-  <a href="https://github.com/MuhammadAhmadAk/your-ecommerce-repo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadAk&repo=your-ecommerce-repo&theme=nightowl&hide_border=true" alt="E-commerce Platform" /></a>
+  <a href="https://github.com/MuhammadAhmadAk/Note-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadAk&repo=Note-App&theme=nightowl&hide_border=true" alt="Note App" /></a>
+  <a href="https://github.com/MuhammadAhmadAk/Sport--Shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadAk&repo=Sport--Shop&theme=nightowl&hide_border=true" alt="Sport Shop (E-commerce)" /></a>
+  <a href="https://github.com/MuhammadAhmadAk/Notes_app-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadAk&repo=Notes_app-api&theme=nightowl&hide_border=true" alt="Notes App API (Backend)" /></a>
 </p>
+
+*(Note: Based on your public repositories. For more projects from your CV like WorkerFinder or HelpOut, consider making them public or adding links for better showcasing.)*
 
 ---
 
@@ -61,8 +91,8 @@ I'm a passionate **Full-Stack Developer** specializing in creating intuitive and
 
 ## 📬 Let's Connect!
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/muhammadahmadak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:devahmadakhtar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/muhammadahmadak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/MuhammadAhmadAk"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
