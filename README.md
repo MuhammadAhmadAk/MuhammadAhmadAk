@@ -1,20 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hello,+I'm+Muhammad+Ahmad+Akhtar!;Flutter+Developer;Full-Stack+with+React+%26+Node.js" alt="Typing SVG" />
-</p>
-
----
-
-<h1 align="center">👨‍💻 Muhammad Ahmad Akhtar</h1>
-<p align="center">
-  <em>Creating secure, fast, and user-friendly mobile apps with clean code</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammadahmadak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/muhammad_ahmadak"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://facebook.com/mohammadahmad.akhtar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://tiktok.com/@muhammadahmadak"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a>
-</p>
+<h1 align="center">👨‍💻 Muhammad Ahmad Akhtar</h1> <p align="center"> <em>Creating secure, fast, and user-friendly mobile apps and web solutions with clean code</em> </p> <p align="center"> <a href="https://www.linkedin.com/in/muhammadahmadak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://instagram.com/muhammad_ahmadak"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://facebook.com/mohammadahmad.akhtar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> <a href="https://tiktok.com/@muhammadahmadak"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a> </p>
 
 ---
 
