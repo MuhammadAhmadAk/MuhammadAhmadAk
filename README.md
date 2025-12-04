@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hello,+I'm+Muhammad+Ahmad+Akhtar!;Flutter+Developer;Full-Stack+with+React+%26+Node.js" alt="Typing SVG" />
+</p>
+
+---
+
 <h1 align="center">👨‍💻 Muhammad Ahmad Akhtar</h1>
 <p align="center">
-  <em>Creating secure, fast, and user-friendly mobile apps and web solutions with clean code</em>
+  <em>Creating secure, fast, and user-friendly mobile apps with clean code</em>
 </p>
 
 <p align="center">
@@ -11,12 +17,13 @@
 </p>
 
 ---
+
 ## 🚀 About Me
 I'm a dedicated **Flutter Developer** with hands-on experience in building mobile applications that are secure, fast, and user-friendly. I leverage clean, well-structured code along with **Firebase** and **REST APIs** to implement features like authentication, push notifications, and real-time updates. Proficient in state management, I create smooth and scalable apps while following best practices for maintainable code and optimal performance.
 
 I stay updated with the latest Flutter tools and trends to enhance my skills. I thrive in collaborative teams, sharing ideas, learning from others, and solving problems with attention to detail. My goal is to deliver reliable apps that are simple to use and easy to maintain.
 
-From real estate and vehicle rentals to communication platforms and e-commerce, I've worked on diverse projects, including full-stack solutions with **React.js** for admin panels and **Node.js + Laravel** for backends.
+From real estate and vehicle rentals to communication platforms and e-commerce, I've worked on diverse projects, including full-stack solutions with **React.js** for admin panels and **Node.js** for backends.
 
 🌟 **What I Bring to the Table:**
 - **Collaborative Spirit**: Excel in team environments, sharing knowledge and ideas.
@@ -25,17 +32,20 @@ From real estate and vehicle rentals to communication platforms and e-commerce, 
 - **Problem-Solving**: Detail-oriented approach to effective solutions.
 
 ---
+
 ## 🎓 Education
 - **BS Computer Science** (Graduated November 2024)  
   Qurtuba University, Dera Ismail Khan, Pakistan
 
 ---
+
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,laravel,php,firebase,ts,html,css,js,git,github&perline=7" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,firebase,ts,html,css,js,git,github" alt="Tech Stack" />
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhmadAk&theme=nightowl&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin: 10px;" />
@@ -48,15 +58,19 @@ From real estate and vehicle rentals to communication platforms and e-commerce, 
 </p>
 
 ---
+
 ## 💼 Experience Highlights
 - **Flutter Developer** at SKATECH Solution (April 2025 - August 2025, Islamabad, Pakistan)  
   Led development of Tiffin Service app, admin panel in React.js, dictionary app, and Smart Farm app with IoT integration via Firebase.
+
 - **Mobile App Developer** at ROGPAD TECHNOLOGIES PVT (November 2023 - December 2024, Delhi, India)  
   Developed communication and financial management apps with clean designs, real-time Firebase data, and cross-device performance.
+
 - **Mobile App Developer** at CodeMiners (February 2023 - January 2024, Lahore, Pakistan)  
   Built apps for real estate, vehicle rentals, and messaging with advanced search, maps, payments, and API integrations.
 
 ---
+
 ## 🏆 Featured Projects
 <p align="center">
   <a href="https://github.com/MuhammadAhmadAk/Note-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAhmadAk&repo=Note-App&theme=nightowl&hide_border=true" alt="Note App" /></a>
@@ -67,12 +81,14 @@ From real estate and vehicle rentals to communication platforms and e-commerce, 
 *(Note: Based on your public repositories. For more projects from your CV like WorkerFinder or HelpOut, consider making them public or adding links for better showcasing.)*
 
 ---
+
 ## 💡 Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
 </p>
 
 ---
+
 ## 📬 Let's Connect!
 <p align="center">
   <a href="mailto:devahmadakhtar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -85,6 +101,8 @@ From real estate and vehicle rentals to communication platforms and e-commerce, 
 </p>
 
 ---
+
 <p align="center">
   <em>✨ Crafted with ❤️ using <a href="https://gprm.itsvg.in">GPRM</a> ✨</em>
 </p>
+
