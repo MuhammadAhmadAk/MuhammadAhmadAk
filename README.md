@@ -16,7 +16,7 @@ I'm a dedicated **Flutter Developer** with hands-on experience in building mobil
 
 I stay updated with the latest Flutter tools and trends to enhance my skills. I thrive in collaborative teams, sharing ideas, learning from others, and solving problems with attention to detail. My goal is to deliver reliable apps that are simple to use and easy to maintain.
 
-From real estate and vehicle rentals to communication platforms and e-commerce, I've worked on diverse projects, including full-stack solutions with **React.js** for admin panels and **Node.js / Laravel** for backends.
+From real estate and vehicle rentals to communication platforms and e-commerce, I've worked on diverse projects, including full-stack solutions with **React.js** for admin panels and **Node.js + Laravel** for backends.
 
 🌟 **What I Bring to the Table:**
 - **Collaborative Spirit**: Excel in team environments, sharing knowledge and ideas.
@@ -32,7 +32,7 @@ From real estate and vehicle rentals to communication platforms and e-commerce, 
 ---
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,laravel,php,firebase,ts,html,css,js,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,laravel,php,firebase,ts,html,css,js,git,github&perline=7" />
 </p>
 
 ---
